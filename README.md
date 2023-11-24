@@ -16,7 +16,8 @@ Są to naprawdę podstawowe komendy które oczywiście można permutować z wiel
 że jeżeli zrozumiesz podstawy to później nie będziesz miał problemu z dodaniem dodatkowych opcji do podstawowej komendy.
 
 Pamiętaj zawsze możesz wpisać
-'''
+'''$ git --help```
+
 
 To co lecimy!!!
 
