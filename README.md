@@ -1,4 +1,4 @@
-# Polecenia Git, których używam prawie każdego dnia (w moim przypadku najczęsciej używam 17 podstawowych komend).
+# Polecenia Git, których używam prawie każdego dnia (w moim przypadku najczęsciej używam 20 podstawowych komend).
 Polecenia terminala, które mogą ci sie przydać w codziennej pracy
 
 zapoznanie się z nimi zajmnie ok 12minut
