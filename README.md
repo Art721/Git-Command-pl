@@ -46,7 +46,7 @@ Pamiętaj zawsze możesz wpisać:
 
 # ...
 
-<b>1.git init</b>
+<b>1. git init</b>
 
 To jest inicjalizacja pustej struktury git w katalogu, w którym obecnie się znajdujemy.<br />
 Po wykonaniu tej komendy zostaje utworzony katalog .git z podkatalogami, w których przechowywane sa wszystkie informacje dotyczące git.<br />
@@ -58,10 +58,11 @@ już mamy własnego git.<br />
 
 # ...
 
-<b>2.git config
+<b>2. git config</b>
 Następną komendą git jest config, Bardzo ważna komenda którą używa się na początku w celu skonfigurowania naszego zdalnego repozytorium.
 
-```$ git config --global user.name "twoja nazwa"``` - służy do identyfikacji nazwy w twoich komentarzach do wszystkich czynności "twoja nazwa" to z regóły imie i nazwisko lub jakiś identyfikator który pozwoli na zidentyfikowanie Cię.<br />
+```$ git config --global user.name "twoja nazwa"``` - służy do identyfikacji nazwy w twoich komentarzach do wszystkich czynności "twoja nazwa" <br />
+to z reguły imie i nazwisko lub jakiś identyfikator który pozwoli na zidentyfikowanie Cię.<br />
 ```$ git config --global user.email "twojemail@domena.com.pl"``` - dodaje do konfiguracji twój email, ¬eby można się z tobą w łatwy sposób zkomunikować w razie potrzeby.<br />
 ```$ git config --global -l``` - pozwala nam zobaczyć co znajduje się w naszym config
 
@@ -88,9 +89,9 @@ gui.geometry=888x451+441+290 201 203
 
 # ...
 
-<b>2.git clone
+<b>3. git clone</b>
 
-Bardzo fajna komenda która uczyni nas szczęsliwymi posiadaczami kopi zdalnego repozytoriun na naszym komputerze i pozwoli wreszczie zabrać się do naszej wymarzonej pracy.<br />
+Bardzo fajna komenda, która uczyni nas szczęsliwymi posiadaczami kopi zdalnego repozytoriun na naszym komputerze i pozwoli wreszczie zabrać się do wymarzonej pracy nad naszym repozytorium.<br />
 
 
 
