@@ -21,8 +21,8 @@ Pamiętaj zawsze możesz wpisać
 
 To co lecimy!!!
 1. ```git init```
-2. ```git clone```
 3. ```git config```
+2. ```git clone```
 4. ```git status```
 5. ```git log```
 6. ```git add```
@@ -48,7 +48,44 @@ To co lecimy!!!
 
 <b>1.git init</b>
 
-Get init służy do inicjlizacji git w katalogu w którym obecnie się znajdujemy 
+To jest inicjalizacja pustej struktury git w katalogu, w którym obecnie się znajdujemy.<br />
+Po wykonaniu tej komendy zostaje utworzony katalog .git z podkatalogami, w których przechowywane sa wszystkie informacje dotyczące git.<br />
+Jweli jesteś gotowy to :<br />
+
+```$ git init```<br />
+
+już mamy własnego git.<br />
+
+# ...
+
+<b>2.git config
+Następną komendą git jest config, Bardzo ważna komenda którą używa się na początku w celu skonfigurowania naszego zdalnego repozytorium.
+
+```$ git config --global user.name "twoja nazwa"``` - służy do identyfikacji nazwy w twoich komentarzach do wszystkich czynności "twoja nazwa" to z regóły imie i nazwisko lub jakiś identyfikator który pozwoli na zidentyfikowanie Cię.<br />
+```$ git config --global user.email "twojemail@domena.com.pl"``` - dodaje do konfiguracji twój email, ¬eby można się z tobą w łatwy sposób zkomunikować w razie potrzeby.<br />
+```$ git config --global -l``` - pozwala nam zobaczyć co znajduje się w naszym config
+
+po wpisaniu <b>git config --global -l</b> otrzynasz coś podobnego:
+```
+credential.helper=osxkeychain
+user.name=Twoja Nazwa
+user.email=twojemail@domena.com.pl
+core.excludesfile=~/.gitignore_global
+gui.recentrepo=/Users/computer1/git/NazwaTwojegoRepozytorium
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=ssh://User@222.222.22.22:222/User/home/git/NazwaTwojegoRepozytorium
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+gui.wmstate=normal
+gui.geometry=888x451+441+290 201 203
+```
+
 
 
 
