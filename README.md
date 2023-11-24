@@ -1,4 +1,4 @@
-# Polecenia Git, których używam prawie każdego dnia (w moim przypadku najczęsciej używam 20 podstawowych komend).
+# Polecenia Git, których używam prawie każdego dnia (w moim przypadku najczęsciej używam 21 podstawowych komend).
 Polecenia terminala, które mogą ci sie przydać w codziennej pracy
 
 zapoznanie się z nimi zajmnie ok 12minut
@@ -20,6 +20,36 @@ Pamiętaj zawsze możesz wpisać
 
 
 To co lecimy!!!
+1. ```git init```
+2. ```git clone```
+3. ```git config```
+4. ```git status```
+5. ```git log```
+6. ```git add```
+7. ```git commit```
+8. ```git branch```
+9. ```git checkout```
+10. ```git fetch```
+11. ```git pull```
+12. ```git push```
+13. ```git stash```
+14. ```git reset```
+15. ```git merge```
+16. ```git remote```
+17. ```git amend```
+18. ```git rebase```
+19. ```git diff```
+20. ```git tag```
+21. ```git show``` 
+
+
+
+# ...
+
+<b>1.git init</b>
+
+Get init służy do inicjlizacji git w katalogu w którym obecnie się znajdujemy 
+
 
 
 
