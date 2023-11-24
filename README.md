@@ -1,4 +1,4 @@
-# Polecenia Git, których używam prawie każdego dnia (w moim przypadku najczęsciej używam 21 podstawowych komend).
+# Polecenia Git, których używam prawie każdego dnia, czyli najczęsciej używane przeze mnie 21 podstawowych komend.
 Polecenia terminala, które mogą ci sie przydać w codziennej pracy
 
 zapoznanie się z nimi zajmnie ok 12minut
@@ -85,6 +85,13 @@ branch.master.merge=refs/heads/master
 gui.wmstate=normal
 gui.geometry=888x451+441+290 201 203
 ```
+
+# ...
+
+<b>2.git clone
+
+Bardzo fajna komenda która uczyni nas szczęsliwymi posiadaczami kopi zdalnego repozytoriun na naszym komputerze i pozwoli wreszczie zabrać się do naszej wymarzonej pracy.<br />
+
 
 
 
